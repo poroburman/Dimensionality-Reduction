@@ -1,4 +1,4 @@
-# Dimensionality-Reduction
+# Machine Learning---Dimensionality-Reduction
 
 This repository consists of the scripts I've performed on Dimensionality Reduction.   
 
